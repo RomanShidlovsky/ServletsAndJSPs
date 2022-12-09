@@ -1,4 +1,4 @@
-package by.bsuir.app.dao;
+package by.bsuir.code.lab4.dao;
 
 import by.bsuir.code.lab4.entity.Reservation;
 

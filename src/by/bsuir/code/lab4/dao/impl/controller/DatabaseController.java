@@ -1,4 +1,4 @@
-package by.bsuir.app.dao.impl.controller;
+package by.bsuir.code.lab4.dao.impl.controller;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

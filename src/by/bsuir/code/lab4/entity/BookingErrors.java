@@ -1,4 +1,4 @@
-package by.bsuir.app.entity;
+package by.bsuir.code.lab4.entity;
 
 public enum BookingErrors {
     OK,

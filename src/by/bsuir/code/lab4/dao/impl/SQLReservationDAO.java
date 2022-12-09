@@ -1,4 +1,4 @@
-package by.bsuir.app.dao.impl;
+package by.bsuir.code.lab4.dao.impl;
 
 import by.bsuir.code.lab4.entity.Reservation;
 import by.bsuir.code.lab4.dao.ReservationRepositoryDAO;
